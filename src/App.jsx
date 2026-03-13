@@ -14,8 +14,8 @@ import {
 // ====================================================
 // CONFIGURE AQUI: cole suas credenciais do Supabase
 // ====================================================
-const SUPABASE_URL = "https://SEU-PROJETO.supabase.co";
-const SUPABASE_ANON_KEY = "SUA-ANON-KEY-AQUI";
+const SUPABASE_URL = "https://lanzgjytslmbyytwvgdr.supabase.co";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imxhbnpnanl0c2xtYnl5dHd2Z2RyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzM0MDY3NTYsImV4cCI6MjA4ODk4Mjc1Nn0.EaA8bwLsn0DrOx0c4OP7rL1FnidbOfwZtiMu1AoMc3Y";
 // ====================================================
 
 const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
